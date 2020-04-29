@@ -1,0 +1,45 @@
+body {
+font-family: 'Helvetica Neue', Helvetica, sans-serif;
+margin-left: 60px;
+}
+
+
+.zagolovok {
+font-weight: bold;
+font-size: 46pt;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.zagolovok_h2 {
+font-weight: bold;
+font-size: 20pt;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+
+
+
+
+.lid {
+font-size: 20px;
+}
+
+
+p {
+font-family: 'Helvetica Neue', Helvetica, sans-serif;
+font-size: 13pt;
+margin-left: 30px;
+width:600px;
+line-height: 1.4em;
+}
+
+
+a {
+color: #0b568a;
+}
+
+a:hover {
+color:red;
+}
